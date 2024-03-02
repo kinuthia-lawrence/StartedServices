@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">StartedServices</string>
+    <string name="ServicesDescription">This service is for downloading</string>
 </resources>
