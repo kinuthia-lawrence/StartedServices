@@ -25,6 +25,9 @@
         <service android:name="ExampleServices"
             android:exported="false"
             android:description="@string/ServicesDescription"/>
+        <service android:name="com.larrykin343.startedservices.ExampleServices2"
+        android:exported="false"
+        android:description="@string/ServicesDescription"/>
 
     </application>
 
